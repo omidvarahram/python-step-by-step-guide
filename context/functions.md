@@ -199,6 +199,4 @@ print(sum_numbers(10, 20, 30, 40))  # Output: 100
 ```
 ---
 
-Let me know when you're ready for the next section or need further elaboration! 😊
-
 ← [back to index page](../index.md)
