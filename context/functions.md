@@ -81,7 +81,7 @@ greet("Alice")  # Output: Hello, Alice!
 
 ---
 
-## **1.3.4 `*args` and `**kwargs`
+## **1.3.4 `*args` and `**kwargs`**
 
 ### **`*args`**
 `*args` allows a function to accept any number of positional arguments.
